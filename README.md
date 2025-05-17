@@ -93,3 +93,9 @@ The app supports three languages. You can switch the language from the login or 
 ValliKaz - [@ValliKaz](https://github.com/ValliKaz)
 
 Project Link: [https://github.com/ValliKaz/IkigayMoney](https://github.com/ValliKaz/IkigayMoney)
+
+## License
+
+MIT
+
+Built with ❤️ by ValliKaz
